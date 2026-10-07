@@ -1,0 +1,44 @@
+{
+  "slug": "xenia",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Xenia",
+  "population": 25435,
+  "housingPre1980Pct": null,
+  "moldStory": "Much of Xenia was rebuilt after the devastating 1974 tornado destroyed nearly half the city, creating a patchwork of 1970s rebuilds now hitting 50 years old — aging roofs and siding at exactly the age when moisture intrusion, and mold, accelerates.",
+  "neighborhoods": [
+    "Downtown Xenia",
+    "Little Miami River area"
+  ],
+  "zips": [
+    "45385"
+  ],
+  "landmarks": [
+    "Greene County Courthouse",
+    "Little Miami River",
+    "Central State and Wilberforce Universities (nearby)"
+  ],
+  "intro": "Xenia's housing story is unique in the Miami Valley: the devastating 1974 tornado destroyed nearly half the city, and the 1970s rebuilds that replaced it are now hitting 50 years old — aging roofs and siding at exactly the age when moisture intrusion, and mold, accelerates. Downtown Xenia and the Little Miami River area mix these rebuilds with older survivors. Fifty-year-old flashing, gutters, and basement waterproofing are all aging out together, and river-adjacent humidity doesn't help.",
+  "moldNote": "Xenia's mold risk is the 1974-rebuild aging curve: a whole generation of 1970s homes hitting 50 at once, with roofs, siding, and basement waterproofing failing in the same decade.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Rebuild-era roof failures",
+      "body": "1970s rebuild roofs are past their service life — slow leaks feeding attic mold across whole neighborhoods.",
+      "serviceSlug": "attic-mold-removal"
+    },
+    {
+      "title": "Siding and flashing decay",
+      "body": "Aging siding and flashing on 50-year-old rebuilds let wind-driven rain into wall cavities.",
+      "serviceSlug": "mold-inspection-testing"
+    },
+    {
+      "title": "Basement waterproofing aging out",
+      "body": "Original 1970s basement waterproofing is failing just as spring storms intensify.",
+      "serviceSlug": "basement-mold-removal"
+    }
+  ],
+  "heroAnswer": "Much of Xenia was rebuilt after the devastating 1974 tornado — a patchwork of 1970s rebuilds now hitting 50 years old, with aging roofs and siding at exactly the age when moisture intrusion accelerates. We serve Xenia with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Xenia, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Xenia, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

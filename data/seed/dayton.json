@@ -1,0 +1,50 @@
+{
+  "annualRainfallIn": 41,
+  "avgHumidity": null,
+  "climateNote": "Dayton's humid continental climate (NOAA 30-year normals) means summer humidity routinely pushes indoor levels above 60% — past the EPA's 30–50% ideal — while winter brings freeze-thaw cycles, ice dams, and condensation in closed-up homes.",
+  "costNote": null,
+  "heroAnswer": "Dayton's freeze-thaw winters and humid summers make mold a year-round problem — ice-dam attic growth in winter, basement seepage after spring storms. With roughly three-quarters of homes built before 1980, hidden moisture problems are common across the Miami Valley. We serve Dayton with free inspections, transparent pricing, and photo-documented work. Every job fixes the moisture source first.",
+  "housingNote": "Roughly three-quarters of Dayton homes were built before 1980, with many downtown and inner neighborhoods dating before 1950. Older roofs, aging plumbing, and decades of small unrepaired leaks make hidden mold common — especially in the city's brick duplexes and rental stock.",
+  "housingPre1980Pct": null,
+  "metaDescription": "Certified mold remediation in Dayton, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 emergency response.",
+  "metaTitle": "Mold Remediation in Dayton, OH | Free Inspections, 24/7",
+  "moldStory": "Dayton combines one of the oldest housing stocks in the Miami Valley — roughly three-quarters of homes predate 1980, with many downtown and inner neighborhoods built before 1950 — with freeze-thaw winters that drive ice dams and attic moisture, and humid summers that feed basement and crawl-space mold. The Great Miami River floodplain adds periodic water-intrusion events, and the city's aging brick duplexes and rental stock often hide long-term moisture problems behind walls.",
+  "name": "Dayton",
+  "neighborhoods": [
+    "Downtown Dayton",
+    "Dayton Innerwest",
+    "Central Dayton"
+  ],
+  "population": 137644,
+  "riskCards": [
+    {
+      "body": "Freeze-thaw winters push meltwater under aging shingles; soaked sheathing in poorly ventilated attics grows mold all winter, unseen.",
+      "serviceSlug": "attic-mold-removal",
+      "title": "Ice-Dam Attic Mold"
+    },
+    {
+      "body": "The Great Miami River floodplain plus spring thunderstorms drive water through older foundations — 24–48 hours later, mold starts.",
+      "serviceSlug": "basement-mold-removal",
+      "title": "Basement Seepage After Spring Storms"
+    },
+    {
+      "body": "Humid summers push indoor humidity past 60% in homes without dehumidification — crawl spaces and basements grow mold silently.",
+      "serviceSlug": "crawl-space-mold-remediation",
+      "title": "Summer Humidity in Older Homes"
+    },
+    {
+      "body": "Aging brick duplexes and rental stock hide long-term moisture behind walls — musty odors and allergy symptoms are the giveaway.",
+      "serviceSlug": "mold-inspection-testing",
+      "title": "Hidden Mold Behind Walls"
+    }
+  ],
+  "slug": "dayton",
+  "stateSlug": "ohio",
+  "zips": [
+    "45402",
+    "45414",
+    "45419",
+    "45420"
+  ],
+  "cardBlurb": "Miami Valley's hub — freeze-thaw attic mold, basement seepage after spring storms, and older housing stock across the metro."
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "kettering",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Kettering",
+  "population": 57860,
+  "housingPre1980Pct": null,
+  "moldStory": "Kettering's housing stock is among the oldest in the metro, with 1950s–60s ranch homes whose aging roofs, original windows, and basements are prime mold territory. Mature tree cover keeps many homes shaded and damp, compounding moisture issues.",
+  "neighborhoods": [
+    "Old Kettering",
+    "Town & Country",
+    "Lincoln Park",
+    "Dorothy Lane area"
+  ],
+  "zips": [
+    "45429",
+    "45440",
+    "45439"
+  ],
+  "landmarks": [
+    "Town & Country Shopping Center",
+    "Patterson Road corridor"
+  ],
+  "intro": "Kettering's housing stock is among the oldest in the Dayton metro — with 1950s–60s ranch homes whose aging roofs, original windows, and basements are prime mold territory. The town's mature tree cover keeps many homes shaded and damp, which compounds moisture problems around foundations and in crawl spaces. In neighborhoods like Old Kettering and the Dorothy Lane area, decades-old flashing, gutters, and basement waterproofing are reaching the end of their service life at exactly the moment mold risk peaks.",
+  "moldNote": "Kettering's mold risk is driven by the age of its housing stock: aging roofs feeding attic mold, older plumbing dripping behind walls, and shaded foundations that never fully dry.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Aging-roof attic mold",
+      "body": "Post-war ranch roofs past their service life let slow leaks soak sheathing for months before a ceiling stain ever shows.",
+      "serviceSlug": "attic-mold-removal"
+    },
+    {
+      "title": "Shaded-foundation moisture",
+      "body": "Mature tree cover keeps lots damp and shaded — basements and crawl spaces here rarely dry out between rain events.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Basement seepage",
+      "body": "Older foundations plus spring storms mean steady seepage calls in Kettering's 1950s–60s neighborhoods.",
+      "serviceSlug": "basement-mold-removal"
+    }
+  ],
+  "heroAnswer": "Kettering's post-war housing stock and mature tree cover mean aging roofs, older plumbing, and shaded, damp foundations — classic mold conditions. Its 1950s–60s ranch homes are at the age when moisture intrusion accelerates. We serve Kettering with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Kettering, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Kettering, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "fairborn",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Fairborn",
+  "population": 34524,
+  "housingPre1980Pct": null,
+  "moldStory": "Fairborn's older neighborhoods near Wright-Patterson AFB feature mid-century homes with aging plumbing and flat-roof additions; heavy student-rental turnover near Wright State means deferred maintenance and hidden mold behind walls and under sinks.",
+  "neighborhoods": [
+    "Downtown Fairborn",
+    "Wright State University area"
+  ],
+  "zips": [
+    "45324"
+  ],
+  "landmarks": [
+    "Wright-Patterson Air Force Base",
+    "Wright State University",
+    "Soin Medical Center"
+  ],
+  "intro": "Fairborn sits at the intersection of Wright-Patterson Air Force Base and Wright State University — and its housing shows it. Older neighborhoods near the base feature mid-century homes with aging plumbing and flat-roof additions that pond water and leak. Near Wright State, heavy student-rental turnover means deferred maintenance: slow leaks behind walls, under sinks, and in bathrooms that go unreported for semesters at a time. Downtown Fairborn's older commercial-residential mix adds its own aging-roof attic mold calls.",
+  "moldNote": "Fairborn's mold risk is maintenance-driven: aging plumbing in mid-century homes, flat-roof additions that leak, and rental turnover that lets small leaks become big colonies.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Flat-roof addition leaks",
+      "body": "Mid-century flat-roof additions pond water and leak at seams — attic and wall-cavity mold follows.",
+      "serviceSlug": "attic-mold-removal"
+    },
+    {
+      "title": "Deferred rental maintenance",
+      "body": "Student rentals with slow plumbing leaks go unreported for months; mold grows behind walls and under sinks.",
+      "serviceSlug": "mold-inspection-testing"
+    },
+    {
+      "title": "Aging plumbing",
+      "body": "50–60-year-old supply and drain lines in base-area neighborhoods drip inside wall cavities.",
+      "serviceSlug": "mold-inspection-testing"
+    }
+  ],
+  "heroAnswer": "Fairborn's mid-century homes near Wright-Patterson AFB face aging plumbing and flat-roof additions, while heavy student-rental turnover near Wright State means deferred maintenance and hidden mold. We serve Fairborn with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Fairborn, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Fairborn, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

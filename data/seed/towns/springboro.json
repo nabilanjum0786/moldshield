@@ -1,0 +1,42 @@
+{
+  "slug": "springboro",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Springboro",
+  "population": 19076,
+  "housingPre1980Pct": null,
+  "moldStory": "Springboro is the metro's newest suburb (population up ~53% since 2000), so mold risk here is less about age and more about construction — rapid-build subdivisions with grading and drainage issues, plus humid summers stressing crawl spaces in newer homes.",
+  "neighborhoods": [
+    "Historic downtown Springboro"
+  ],
+  "zips": [
+    "45066"
+  ],
+  "landmarks": [
+    "Historic community square",
+    "Springboro High School"
+  ],
+  "intro": "Springboro is the Miami Valley's growth story — population up roughly 53% since 2000 — which makes its mold profile different from the older suburbs. In rapid-build subdivisions, the risk is construction-phase: grading and drainage issues that push stormwater toward foundations, and new-home humidity loads from fresh concrete and tight envelopes. Humid summers stress crawl spaces in newer homes, and around the historic community square, the town's older core still has its own aging-roof attic calls.",
+  "moldNote": "Springboro's mold risk is construction-driven, not age-driven: subdivision grading and drainage quirks, high new-home humidity loads, and crawl spaces stressed by humid summers.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Subdivision drainage issues",
+      "body": "Rapid-build grading pushes stormwater toward foundations — basement seepage in homes barely a decade old.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "New-home humidity loads",
+      "body": "Fresh concrete and tight envelopes keep new homes humid; crawl spaces and attics stay damp.",
+      "serviceSlug": "crawl-space-mold-remediation"
+    },
+    {
+      "title": "AC condensate problems",
+      "body": "Oversized or poorly drained AC systems in newer homes drip into attics and wall cavities.",
+      "serviceSlug": "mold-inspection-testing"
+    }
+  ],
+  "heroAnswer": "Springboro is the metro's newest suburb — so mold risk here is less about age and more about construction: rapid-build subdivisions with grading and drainage issues, plus humid summers stressing crawl spaces. We serve Springboro with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Springboro, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Springboro, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

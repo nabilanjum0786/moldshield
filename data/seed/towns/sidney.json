@@ -1,0 +1,44 @@
+{
+  "slug": "sidney",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Sidney",
+  "population": 20592,
+  "housingPre1980Pct": null,
+  "moldStory": "Sidney's 19th-century downtown core and early-1900s worker housing near the Great Miami River sit in one of the metro's older housing stocks, with stone foundations and aging roofs that trap moisture — compounded by its position ~36 miles north of Dayton in the river valley.",
+  "neighborhoods": [
+    "Downtown Sidney"
+  ],
+  "zips": [
+    "45365",
+    "45367"
+  ],
+  "landmarks": [
+    "Shelby County Courthouse (1881)",
+    "Monumental Building",
+    "Big Four Bridge"
+  ],
+  "intro": "Sidney anchors the northern end of the Miami Valley, about 36 miles up the Great Miami River from Dayton. Its 19th-century downtown core — the 1881 Shelby County Courthouse, the Monumental Building — is surrounded by early-1900s worker housing in one of the metro's older housing stocks. Stone foundations and aging roofs trap moisture: seepage through old stonework, slow roof leaks feeding attic mold, and a river-valley position that keeps ambient humidity high.",
+  "moldNote": "Sidney's mold risk is age plus valley: 19th-century stone foundations that seep, aging roofs on worker housing, and river-valley humidity that slows drying after every rain.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Stone-foundation seepage",
+      "body": "19th-century stonework wicks river-valley moisture — basement walls stay damp for weeks.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Aging-roof attic mold",
+      "body": "Early-1900s worker housing with original-era rooflines leaks slowly into attics.",
+      "serviceSlug": "attic-mold-removal"
+    },
+    {
+      "title": "Valley humidity",
+      "body": "The river-valley position keeps ambient humidity high, slowing drying and feeding crawl-space growth.",
+      "serviceSlug": "crawl-space-mold-remediation"
+    }
+  ],
+  "heroAnswer": "Sidney's 19th-century downtown core and early-1900s worker housing near the Great Miami River sit in one of the metro's older housing stocks — stone foundations and aging roofs that trap moisture. We serve Sidney with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Sidney, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Sidney, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

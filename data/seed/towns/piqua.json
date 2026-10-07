@@ -1,0 +1,44 @@
+{
+  "slug": "piqua",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Piqua",
+  "population": 20378,
+  "housingPre1980Pct": null,
+  "moldStory": "Piqua's industrial-era housing stock (founded 1807, much of it decades old) and low-lying areas near the Great Miami River and its canal-era infrastructure mean chronic basement moisture — the city's most common mold driver.",
+  "neighborhoods": [
+    "Downtown Piqua",
+    "Fort Piqua Plaza district"
+  ],
+  "zips": [
+    "45356"
+  ],
+  "landmarks": [
+    "Fort Piqua Plaza",
+    "Great Miami River Trail",
+    "Echo Hills"
+  ],
+  "intro": "Founded in 1807, Piqua's housing stock is industrial-era — much of it decades old — and its low-lying areas near the Great Miami River and canal-era infrastructure stay damp. Chronic basement moisture is the city's most common mold driver: seepage through old foundations, sump systems that can't keep up in wet springs, and contents stored on damp basement floors. Around Fort Piqua Plaza and downtown, aging commercial-residential buildings add roof-leak attic calls.",
+  "moldNote": "Piqua's mold risk is groundwater-driven: low-lying river-adjacent neighborhoods, industrial-era foundations that seep every spring, and basements used as storage on damp floors.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Chronic basement moisture",
+      "body": "Low-lying areas near the river keep basements damp for months — seepage, wicking, and humid air feeding growth.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Old-foundation seepage",
+      "body": "Pre-1970 foundations with failing waterproofing let spring stormwater straight in.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Crawl-space dampness",
+      "body": "Damp soil and poor drainage under older homes keep crawl spaces wet year-round.",
+      "serviceSlug": "crawl-space-mold-remediation"
+    }
+  ],
+  "heroAnswer": "Piqua's industrial-era housing stock and low-lying areas near the Great Miami River mean chronic basement moisture — the city's most common mold driver. We serve Piqua with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Piqua, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Piqua, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "countySlug": "montgomery-county",
+      "countyName": "Montgomery County",
+      "stateName": "Ohio",
+      "stateAbbr": "OH",
+      "eventType": "Flash Flood",
+      "eventDate": "2026-06-07",
+      "eventEndDate": "2026-06-07",
+      "eventTimeLabel": "6:45 PM – 7:45 PM Eastern",
+      "episodeNarrative": "Isolated thunderstorms produced locally heavy rainfall during the late afternoon and early evening hours.",
+      "eventNarrative": "Several cars were stuck in high water at the Bethany Village community.",
+      "floodCause": "Heavy Rain",
+      "propertyDamage": "$3,000",
+      "reportSource": "State Official",
+      "sourceName": "NOAA Storm Events Database",
+      "sourceUrl": "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2026_c20260918.csv.gz",
+      "retrievedDate": "2026-10-06"
+    }
+  ]
+}

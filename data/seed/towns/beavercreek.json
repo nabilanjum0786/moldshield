@@ -1,0 +1,49 @@
+{
+  "slug": "beavercreek",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Beavercreek",
+  "population": 46562,
+  "housingPre1980Pct": null,
+  "moldStory": "Beavercreek skews newer (median build ~1981) but its rapid expansion over former farmland means many homes sit on high water tables; finished basements are common and humid summers drive crawl-space and basement mold calls. Older pockets like Knollwood mix 1950s homes with newer builds.",
+  "neighborhoods": [
+    "Knollwood",
+    "Hunter's Ridge",
+    "Stone Falls",
+    "The Greene / Indian Ripple corridor"
+  ],
+  "zips": [
+    "45434",
+    "45440",
+    "45430",
+    "45431"
+  ],
+  "landmarks": [
+    "The Greene Town Center",
+    "Fairfield Commons",
+    "Dominick Lofino Park"
+  ],
+  "intro": "Beavercreek is one of the metro's newer suburbs, but newer doesn't mean mold-free. Rapid expansion over former farmland left many homes sitting on high water tables, and finished basements are common across its subdivisions. Humid summers drive crawl-space and basement mold calls, while older pockets like Knollwood mix 1950s homes with newer builds. Around The Greene and the Indian Ripple corridor, grading and drainage issues from fast subdivision growth are the quiet mold driver.",
+  "moldNote": "Beavercreek's mold story is water tables, not age: high groundwater under former farmland, finished basements that trap summer humidity, and fast-built subdivisions with drainage quirks.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "High-water-table basements",
+      "body": "Former farmland means high groundwater — finished basements in newer subdivisions wick moisture through slabs all summer.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Crawl-space humidity",
+      "body": "Humid summers plus damp soil under homes create crawl spaces that stay wet for months.",
+      "serviceSlug": "crawl-space-mold-remediation"
+    },
+    {
+      "title": "Subdivision drainage issues",
+      "body": "Rapid-build grading quirks push stormwater toward foundations instead of away from them.",
+      "serviceSlug": "mold-inspection-testing"
+    }
+  ],
+  "heroAnswer": "Beavercreek skews newer, but rapid expansion over former farmland means many homes sit on high water tables — finished basements and humid summers drive steady mold calls. We serve Beavercreek with free inspections, transparent pricing, and photo-documented work, fixing the moisture source so mold doesn't return.",
+  "metaTitle": "Mold Removal in Beavercreek, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Beavercreek, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

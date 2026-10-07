@@ -1,0 +1,45 @@
+{
+  "slug": "centerville",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Centerville",
+  "population": 24194,
+  "housingPre1980Pct": null,
+  "moldStory": "Centerville mixes historic stone homes in Uptown (some on the National Register) with 1970s–90s subdivisions; older stone foundations wick moisture, while mature trees and shaded lots keep humidity high around foundations.",
+  "neighborhoods": [
+    "Uptown Centerville",
+    "Yankee Trace"
+  ],
+  "zips": [
+    "45459",
+    "45458"
+  ],
+  "landmarks": [
+    "Stubbs Park",
+    "Golf Club at Yankee Trace",
+    "Benham's Grove"
+  ],
+  "intro": "Centerville is two towns in one: historic stone homes in Uptown — some on the National Register — alongside 1970s–90s subdivisions like Yankee Trace. The older stone foundations wick moisture upward through basement walls, while mature trees and shaded lots keep humidity high around foundations. In the newer subdivisions, the risk shifts to fast-built drainage and humid crawl spaces. Either way, moisture finds the weak point first.",
+  "moldNote": "Centerville's dual housing stock splits the risk: wicking stone foundations in historic Uptown homes, and humid crawl spaces plus drainage quirks in the 1970s–90s subdivisions.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Wicking stone foundations",
+      "body": "Historic stone foundations in Uptown draw moisture upward — basement walls stay damp for weeks after rain.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Shaded-lot humidity",
+      "body": "Mature trees and shaded lots trap humidity around foundations, feeding crawl-space growth.",
+      "serviceSlug": "crawl-space-mold-remediation"
+    },
+    {
+      "title": "Attic ventilation gaps",
+      "body": "Older rooflines with unbalanced ventilation trap winter moisture against sheathing.",
+      "serviceSlug": "attic-mold-removal"
+    }
+  ],
+  "heroAnswer": "Centerville mixes historic stone homes in Uptown with 1970s–90s subdivisions — older stone foundations wick moisture while mature trees keep humidity high. We serve Centerville with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Centerville, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Centerville, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

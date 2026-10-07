@@ -1,0 +1,45 @@
+{
+  "slug": "troy",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Troy",
+  "population": 26337,
+  "housingPre1980Pct": null,
+  "moldStory": "Troy's 19th-century downtown and early-1900s neighborhoods along the Great Miami River combine old plaster-and-lath homes with periodic river flooding — a classic recipe for hidden wall-cavity mold.",
+  "neighborhoods": [
+    "Downtown Troy",
+    "Great Miami Riverfront"
+  ],
+  "zips": [
+    "45373",
+    "45374"
+  ],
+  "landmarks": [
+    "Troy Hayner Cultural Center",
+    "Great Miami River",
+    "Strawberry Festival"
+  ],
+  "intro": "Troy's 19th-century downtown core and early-1900s neighborhoods sit right on the Great Miami River — beautiful, and a mold risk map in miniature. Old plaster-and-lath homes hide decades of small leaks inside wall cavities, and periodic river flooding soaks basements that then stay damp for weeks. The Strawberry Festival crowds downtown each year, but the housing stock behind Main Street is aging: old roofs, old plumbing, and stone foundations that wick river-valley moisture.",
+  "moldNote": "Troy's mold risk is river plus age: periodic Great Miami flooding, old plaster-and-lath wall cavities hiding decades of leaks, and stone foundations wicking valley moisture.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Hidden wall-cavity mold",
+      "body": "Plaster-and-lath walls in 19th-century homes hide decades of slow leaks — musty odors with no visible growth.",
+      "serviceSlug": "mold-inspection-testing"
+    },
+    {
+      "title": "River-flood basement mold",
+      "body": "Periodic Great Miami flooding soaks basements; 24–48 hours later, mold starts on damp contents and walls.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Aging-roof attic mold",
+      "body": "Old downtown rooflines with failing flashing feed sheathing mold for years unseen.",
+      "serviceSlug": "attic-mold-removal"
+    }
+  ],
+  "heroAnswer": "Troy's 19th-century downtown and early-1900s neighborhoods along the Great Miami River combine old plaster-and-lath homes with periodic river flooding — a classic recipe for hidden wall-cavity mold. We serve Troy with free inspections, transparent pricing, and photo-documented work.",
+  "metaTitle": "Mold Removal in Troy, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Troy, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}

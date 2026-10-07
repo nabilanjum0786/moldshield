@@ -1,0 +1,251 @@
+{
+  "city": {
+    "housingPre1980Pct": null,
+    "moldStory": "Dayton combines one of the oldest housing stocks in the Miami Valley — roughly three-quarters of homes predate 1980, with many downtown and inner neighborhoods built before 1950 — with freeze-thaw winters that drive ice dams and attic moisture, and humid summers that feed basement and crawl-space mold. The Great Miami River floodplain adds periodic water-intrusion events, and the city's aging brick duplexes and rental stock often hide long-term moisture problems behind walls.",
+    "name": "Dayton",
+    "neighborhoods": [
+      "Downtown Dayton",
+      "Dayton Innerwest",
+      "Central Dayton"
+    ],
+    "population": 137644,
+    "slug": "dayton",
+    "stateSlug": "ohio",
+    "zips": [
+      "45402",
+      "45414",
+      "45419",
+      "45420"
+    ]
+  },
+  "climate": {
+    "annualRainfallIn": 41,
+    "avgHumidityNote": "Humid continental climate (NOAA 30-year normals). Summer humidity routinely pushes indoor levels above 60% (EPA recommends 30–50% indoors); winter brings freeze-thaw cycles, ice dams, and condensation in closed-up homes.",
+    "moldSeasonNote": "Peak mold pressure May through September (humidity + thunderstorms); spring flooding along the Great Miami River watershed; winter brings ice-dam attic mold and pipe-burst water damage. Effectively a year-round market."
+  },
+  "state": {
+    "licensingNote": "Ohio has no statewide mold assessor or remediator licensing requirement (unlike Florida, Texas, and New York, which do license mold professionals; no Ohio-specific mold license found in current state code — Ohio licenses lead abatement, not mold). Contractors should follow EPA and IICRC S520 remediation guidelines; homeowners should verify any contractor's general credentials and insurance.",
+    "moldStory": "Ohio's humid continental climate — roughly 40 inches of annual rainfall, muggy summers, and freeze-thaw winters — makes mold a statewide, year-round issue. The Miami Valley's older housing stock (much of it pre-1980) plus Great Miami River floodplain moisture create persistent moisture-intrusion risk, from ice-dam attic mold in winter to basement and crawl-space mold in the humid summer months.",
+    "name": "Ohio",
+    "slug": "ohio"
+  },
+  "towns": [
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Town & Country Shopping Center",
+        "Patterson Road corridor"
+      ],
+      "moldStory": "Kettering's housing stock is among the oldest in the metro (median build year ~1961), with 1950s–60s ranch homes whose aging roofs, original windows, and basements are prime mold territory. Mature tree cover keeps many homes shaded and damp, compounding moisture issues.",
+      "name": "Kettering",
+      "neighborhoods": [
+        "Old Kettering",
+        "Town & Country",
+        "Lincoln Park",
+        "Dorothy Lane area"
+      ],
+      "population": 57860,
+      "slug": "kettering",
+      "stateSlug": "ohio",
+      "zips": [
+        "45429",
+        "45440",
+        "45439"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "The Greene Town Center",
+        "Fairfield Commons",
+        "Dominick Lofino Park"
+      ],
+      "moldStory": "Beavercreek skews newer (median build ~1981) but its rapid expansion over former farmland means many homes sit on high water tables; finished basements are common and humid summers drive crawl-space and basement mold calls. Older pockets like Knollwood mix 1950s homes with newer builds.",
+      "name": "Beavercreek",
+      "neighborhoods": [
+        "Knollwood",
+        "Hunter's Ridge",
+        "Stone Falls",
+        "The Greene / Indian Ripple corridor"
+      ],
+      "population": 46562,
+      "slug": "beavercreek",
+      "stateSlug": "ohio",
+      "zips": [
+        "45434",
+        "45440",
+        "45430",
+        "45431"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Wayne High School",
+        "Eichelberger Park"
+      ],
+      "moldStory": "Built largely in the 1960s–70s suburban boom ('Brick City'), Huber Heights has miles of aging brick ranch homes where deteriorating flashing, old gutters, and basement seepage create steady mold-remediation demand.",
+      "name": "Huber Heights",
+      "neighborhoods": [
+        "Brick City",
+        "Brandt Pike corridor"
+      ],
+      "population": 43429,
+      "slug": "huber-heights",
+      "stateSlug": "ohio",
+      "zips": [
+        "45424"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Stubbs Park",
+        "Golf Club at Yankee Trace",
+        "Benham's Grove"
+      ],
+      "moldStory": "Centerville mixes historic stone homes in Uptown (some on the National Register) with 1970s–90s subdivisions; older stone foundations wick moisture, while mature trees and shaded lots keep humidity high around foundations.",
+      "name": "Centerville",
+      "neighborhoods": [
+        "Uptown Centerville",
+        "Yankee Trace"
+      ],
+      "population": 24194,
+      "slug": "centerville",
+      "stateSlug": "ohio",
+      "zips": [
+        "45459",
+        "45458"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Wright-Patterson Air Force Base",
+        "Wright State University",
+        "Soin Medical Center"
+      ],
+      "moldStory": "Fairborn's older neighborhoods near Wright-Patterson AFB feature mid-century homes with aging plumbing and flat-roof additions; heavy student-rental turnover near Wright State means deferred maintenance and hidden mold behind walls and under sinks.",
+      "name": "Fairborn",
+      "neighborhoods": [
+        "Downtown Fairborn",
+        "Wright State University area"
+      ],
+      "population": 34524,
+      "slug": "fairborn",
+      "stateSlug": "ohio",
+      "zips": [
+        "45324"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Historic community square",
+        "Springboro High School"
+      ],
+      "moldStory": "Springboro is the metro's newest suburb (population up ~53% since 2000), so mold risk here is less about age and more about construction — rapid-build subdivisions with grading and drainage issues, plus humid summers stressing crawl spaces in newer homes.",
+      "name": "Springboro",
+      "neighborhoods": [
+        "Historic downtown Springboro"
+      ],
+      "population": 19076,
+      "slug": "springboro",
+      "stateSlug": "ohio",
+      "zips": [
+        "45066"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Troy Hayner Cultural Center",
+        "Great Miami River",
+        "Strawberry Festival"
+      ],
+      "moldStory": "Troy's 19th-century downtown and early-1900s neighborhoods along the Great Miami River combine old plaster-and-lath homes with periodic river flooding — a classic recipe for hidden wall-cavity mold.",
+      "name": "Troy",
+      "neighborhoods": [
+        "Downtown Troy",
+        "Great Miami Riverfront"
+      ],
+      "population": 26337,
+      "slug": "troy",
+      "stateSlug": "ohio",
+      "zips": [
+        "45373",
+        "45374"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Fort Piqua Plaza",
+        "Great Miami River Trail",
+        "Echo Hills"
+      ],
+      "moldStory": "Piqua's industrial-era housing stock (founded 1807, much of it pre-1970) and low-lying areas near the Great Miami River and its canal-era infrastructure mean chronic basement moisture — the city's most common mold driver.",
+      "name": "Piqua",
+      "neighborhoods": [
+        "Downtown Piqua",
+        "Fort Piqua Plaza district"
+      ],
+      "population": 20378,
+      "slug": "piqua",
+      "stateSlug": "ohio",
+      "zips": [
+        "45356"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Greene County Courthouse",
+        "Little Miami River",
+        "Central State and Wilberforce Universities (nearby)"
+      ],
+      "moldStory": "Much of Xenia was rebuilt after the devastating 1974 tornado destroyed nearly half the city, creating a patchwork of 1970s rebuilds now hitting 50 years old — aging roofs and siding at exactly the age when moisture intrusion, and mold, accelerates.",
+      "name": "Xenia",
+      "neighborhoods": [
+        "Downtown Xenia",
+        "Little Miami River area"
+      ],
+      "population": 25435,
+      "slug": "xenia",
+      "stateSlug": "ohio",
+      "zips": [
+        "45385"
+      ]
+    },
+    {
+      "citySlug": "dayton",
+      "housingPre1980Pct": null,
+      "landmarks": [
+        "Shelby County Courthouse (1881)",
+        "Monumental Building",
+        "Big Four Bridge"
+      ],
+      "moldStory": "Sidney's 19th-century downtown core and early-1900s worker housing near the Great Miami River sit in one of the metro's older housing stocks, with stone foundations and aging roofs that trap moisture — compounded by its position ~36 miles north of Dayton in the river valley.",
+      "name": "Sidney",
+      "neighborhoods": [
+        "Downtown Sidney"
+      ],
+      "population": 20592,
+      "slug": "sidney",
+      "stateSlug": "ohio",
+      "zips": [
+        "45365",
+        "45367"
+      ]
+    }
+  ]
+}

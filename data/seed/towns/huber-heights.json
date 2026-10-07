@@ -1,0 +1,43 @@
+{
+  "slug": "huber-heights",
+  "citySlug": "dayton",
+  "stateSlug": "ohio",
+  "name": "Huber Heights",
+  "population": 43429,
+  "housingPre1980Pct": null,
+  "moldStory": "Built largely in the 1960s–70s suburban boom ('Brick City'), Huber Heights has miles of aging brick ranch homes where deteriorating flashing, old gutters, and basement seepage create steady mold-remediation demand.",
+  "neighborhoods": [
+    "Brick City",
+    "Brandt Pike corridor"
+  ],
+  "zips": [
+    "45424"
+  ],
+  "landmarks": [
+    "Wayne High School",
+    "Eichelberger Park"
+  ],
+  "intro": "Built largely in the 1960s–70s suburban boom, Huber Heights is a city of brick ranch homes now hitting 50–60 years old — exactly the age when moisture intrusion, and mold, accelerates. Deteriorating flashing, old gutters, and basement seepage create steady remediation demand along the Brandt Pike corridor and through the neighborhoods locals call Brick City. These are solid homes, but their original water-management details are aging out at the same time.",
+  "moldNote": "Roughly 55% of Huber Heights homes predate 1980 — the mold risk here is the suburban-boom aging curve: original flashing, gutters, and basement waterproofing all failing in the same decade.",
+  "costNote": null,
+  "problemCards": [
+    {
+      "title": "Failing flashing and gutters",
+      "body": "Original 1960s–70s flashing and gutters on brick ranches are past their service life — slow roof leaks feed attic mold.",
+      "serviceSlug": "attic-mold-removal"
+    },
+    {
+      "title": "Basement seepage",
+      "body": "Aging basement waterproofing plus spring storms mean routine seepage calls across Brick City.",
+      "serviceSlug": "basement-mold-removal"
+    },
+    {
+      "title": "Hidden plumbing leaks",
+      "body": "50-year-old supply lines and drains drip behind walls for months before anyone notices.",
+      "serviceSlug": "mold-inspection-testing"
+    }
+  ],
+  "heroAnswer": "Huber Heights' 1960s–70s brick ranch homes — miles of them — are at the age when flashing fails, gutters rot, and basement seepage becomes routine. We serve Huber Heights with free inspections, transparent pricing, and photo-documented work, fixing the moisture source first.",
+  "metaTitle": "Mold Removal in Huber Heights, OH | Free Inspections, 24/7",
+  "metaDescription": "Certified mold removal in Huber Heights, Ohio — attic, basement, crawl space and black mold. Free inspections, transparent pricing, 24/7 response."
+}
