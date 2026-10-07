@@ -1,7 +1,13 @@
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import { Icon } from "./icons";
-import { CostEstimator } from "./CostEstimator";
-import { MoldQuiz } from "./MoldQuiz";
+// Heavy interactives load lazily — keeps initial JS small for fast first paint.
+const CostEstimator = dynamic(() => import("./CostEstimator").then((m) => m.CostEstimator), {
+  loading: () => <div className="tool-card" aria-busy="true"><p>Loading estimator…</p></div>,
+});
+const MoldQuiz = dynamic(() => import("./MoldQuiz").then((m) => m.MoldQuiz), {
+  loading: () => <div className="tool-card" aria-busy="true"><p>Loading quiz…</p></div>,
+});
 import { CostBarChart } from "./infographics/CostBarChart";
 import { HumidityGauge } from "./infographics/HumidityGauge";
 

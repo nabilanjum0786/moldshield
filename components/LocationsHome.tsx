@@ -1,6 +1,9 @@
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import { Icon } from "./icons";
-import { Carousel } from "./Carousel";
+const Carousel = dynamic(() => import("./Carousel").then((m) => m.Carousel), {
+  loading: () => <div aria-busy="true"><p>Loading…</p></div>,
+});
 import { listStates, listCities, listTowns } from "@/data";
 import { services } from "@/lib/site-config";
 

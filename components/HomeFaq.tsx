@@ -1,4 +1,7 @@
-import { FaqAccordion } from "./FaqAccordion";
+import dynamic from "next/dynamic";
+const FaqAccordion = dynamic(() => import("./FaqAccordion").then((m) => m.FaqAccordion), {
+  loading: () => <div aria-busy="true"><p>Loading questions…</p></div>,
+});
 import { JsonLd, faqJsonLd } from "@/lib/schema";
 import { homeFaqs } from "@/content/home-faqs";
 
