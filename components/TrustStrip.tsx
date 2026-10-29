@@ -127,8 +127,8 @@ export function StatCards() {
           className="card reveal"
           style={{
             marginTop: 20,
-            background: "#fffbe9",
-            borderColor: "#f0d48a",
+            background: "#2a2110",
+            borderColor: "#6b5b2e",
             borderLeft: "5px solid var(--amber)",
           }}
         >
